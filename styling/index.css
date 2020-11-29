@@ -1,0 +1,13 @@
+/* RESET */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* CENTERING */
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+}

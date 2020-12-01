@@ -12,12 +12,13 @@ body {
 main {
   margin: 0 auto;
   max-width: 50em;
+  /* background-image: linear-gradient(180deg, rgb(105, 49, 143), rgb(209, 152, 201)); */
 }
 
 /* FONTS */
 
 body {
-  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-family: Roboto, Helvetica, Arial, sans-serif;  
 }
 
 
@@ -40,7 +41,7 @@ h2 {
 }
 
 a {
-  color: #e81c4f;
+  color: #b37102;
 }
 
 
@@ -66,7 +67,7 @@ header h1 {
 header a {
   border: 1px solid #e81c4f;
   border-radius: 2em;
-  color: white;
+  color:#b37102;
   font-size: 0.6em;
   letter-spacing: 0.01em;
   padding: 1em 2em;
